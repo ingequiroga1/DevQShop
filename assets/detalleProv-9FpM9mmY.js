@@ -1,0 +1,1 @@
+import{_ as s,c as a,a as t,u as r,o as l}from"./index-DGViyXbH.js";const c={},d={class:"p-6 max-w-xl mx-auto"},n={class:"text-gray-700"};function p(o,e){return l(),a("div",d,[e[0]||(e[0]=t("h2",{class:"text-2xl font-bold mb-4 text-gray-800"},"Detalle del proveedor",-1)),t("p",n,"ID del proveedor: "+r(o.$route.params.id),1)])}const i=s(c,[["render",p]]);export{i as default};
